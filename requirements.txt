@@ -1,0 +1,6 @@
+pip install Groq
+pip install os
+pip install praw
+pip install logging
+pip install schedule
+pip install time

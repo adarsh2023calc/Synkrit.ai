@@ -1,0 +1,35 @@
+2025-01-16 09:18:36,678 - INFO - Reddit bot started.
+2025-01-16 09:19:18,131 - INFO - Reddit bot started.
+2025-01-16 09:20:07,556 - INFO - Reddit bot started.
+2025-01-16 09:23:19,369 - INFO - Reddit bot started.
+2025-01-16 09:23:47,419 - INFO - Reddit bot started.
+2025-01-16 09:25:27,969 - INFO - Reddit bot started.
+2025-01-16 09:26:02,347 - INFO - Starting daily post routine.
+2025-01-16 09:28:42,946 - INFO - Reddit bot started.
+2025-01-16 09:30:22,205 - INFO - Reddit bot started.
+2025-01-16 09:31:08,751 - INFO - Reddit bot started.
+2025-01-16 09:32:45,114 - INFO - Reddit bot started.
+2025-01-16 09:33:29,625 - INFO - Reddit bot started.
+2025-01-16 09:34:32,828 - INFO - Reddit bot started.
+2025-01-16 09:35:02,215 - INFO - Starting daily post routine.
+2025-01-16 09:35:03,180 - ERROR - Error generating content: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fb31cb877c0>: Failed to resolve 'api.groq.ai' ([Errno -2] Name or service not known)"))
+2025-01-16 09:38:20,488 - INFO - Reddit bot started.
+2025-01-16 09:38:31,730 - INFO - Reddit bot started.
+2025-01-16 09:40:04,778 - INFO - Starting daily post routine.
+2025-01-16 09:40:04,829 - ERROR - Error generating content: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f9edf4777c0>: Failed to resolve 'api.groq.ai' ([Errno -2] Name or service not known)"))
+2025-01-16 09:42:09,040 - INFO - Reddit bot started.
+2025-01-16 09:43:02,702 - INFO - Starting daily post routine.
+2025-01-16 09:43:02,723 - ERROR - Error generating content: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f72b3a6f820>: Failed to resolve 'api.groq.ai' ([Errno -2] Name or service not known)"))
+2025-01-16 09:43:58,226 - INFO - Reddit bot started.
+2025-01-16 09:44:31,745 - INFO - Reddit bot started.
+2025-01-16 09:45:00,183 - INFO - Starting daily post routine.
+2025-01-16 09:45:00,206 - ERROR - Error generating content: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f7bb60e3820>: Failed to resolve 'api.groq.ai' ([Errno -2] Name or service not known)"))
+2025-01-16 16:00:27,298 - INFO - Reddit bot started.
+2025-01-16 16:03:27,694 - INFO - Starting daily post routine.
+2025-01-16 16:03:28,121 - ERROR - Error generating content: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fcc3c2977c0>: Failed to resolve 'api.groq.ai' ([Errno -2] Name or service not known)"))
+2025-01-16 16:05:06,410 - INFO - Reddit bot started.
+2025-01-16 16:08:06,670 - INFO - Starting daily post routine.
+2025-01-16 16:08:06,732 - ERROR - Error generating content: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f3d2b522980>: Failed to resolve 'api.groq.ai' ([Errno -2] Name or service not known)"))
+2025-01-16 16:10:10,310 - INFO - Reddit bot started.
+2025-01-16 16:11:03,991 - INFO - Reddit bot started.
+2025-01-16 16:15:14,393 - INFO - Reddit bot started.
